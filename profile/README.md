@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png "> 
+  <img src="./logo.jpg "> 
 </p>
 
 # ITM-极简主义

@@ -20,6 +20,9 @@
 
 - [ ] 2048 :star: 发社群NFT
 
+- [ ] 4096 :star: 发布新链
+
+
 #  快速索引
 
 **Go-极简教程**：[仓库地址](https://github.com/Introduction-to-Minimalism/ITM-Go)
